@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="glass-java-starter:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="glass-java-starter-0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="glass-java-starter:war exploded" />
+    </root>
+  </artifact>
+</component>
